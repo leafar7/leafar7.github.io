@@ -45,9 +45,7 @@ export default class Header extends Component {
           </p>
           
         </header> {/* Header End */}
-        );
-      }
-    });}
+       
             </React.Fragment>
     )
   }
