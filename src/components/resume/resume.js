@@ -33,8 +33,7 @@ export default class Resume extends Component {
       </div> {/* item end */}
     </div> {/* main-col end */}
   </div> {/* End Education */}
-  {/* Work
------------------------------------------------ */}
+  {/* Work--------------------------------------------- */}
   <div className="row work">
     <div className="three columns header-col">
       <h1><span>Work</span></h1>
@@ -62,8 +61,7 @@ export default class Resume extends Component {
       </div> {/* item end */}
     </div> {/* main-col end */}
   </div> {/* End Work */}
-  {/* Skills
------------------------------------------------ */}
+  {/* Skills--------------------------------------------- */}
   <div className="row skill">
     <div className="three columns header-col">
       <h1><span>Skills</span></h1>
