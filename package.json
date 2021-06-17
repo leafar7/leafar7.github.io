@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://leafar7.github.io/me",
+  "homepage": "http://leafar7.github.io/projeto-aconchego",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
